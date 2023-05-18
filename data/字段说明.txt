@@ -1,0 +1,25 @@
+work_year 工资记录的当年
+experience_level 经验级别
+●EN Entry-level：入门级/初级
+●MI：Mid-level / Intermediate 中级
+●SE：Senior-level 高级/专家
+●EX：Executive-level / Director 高管级/董事
+employment_type 工作类别
+●FT Full-time 全职工作
+●PT Part-time 兼职工作
+●CT Contract 合同工作
+●FL Freelance 零工
+job_title 具体工作职务
+salary 工资(总数)
+salary_currency 工资币种
+salary_in_usd 美元工资(所有货币统一转化为美元)
+employee_residence 员工居住的国家
+remote_ratio 远程的比例
+●0是低于20%
+●50 是一半左右
+●100 是80%以上
+company_location 公司所在国家
+company_size
+●L：大公司
+●M：中型公司
+●S：小公司
